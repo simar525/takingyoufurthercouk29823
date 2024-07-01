@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.nofussit.co.uk/domain-parked/$1"
+ }
+  ]
+}
